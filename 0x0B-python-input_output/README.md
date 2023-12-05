@@ -1,1 +1,1 @@
-0x0b input output
+inputs output 0x0B
